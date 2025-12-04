@@ -1,5 +1,8 @@
 # Project Portfolio: Urban Tree Explorer
 
+> [!IMPORTANT]
+> This is a **simulated client project** developed for a university subject. The live website was hosted on university servers and has been decommissioned following the subject's conclusion. As the development took place directly on a WordPress environment, this repository serves as a **portfolio showcase** documenting the features and my contributions, but does not contain the source code.
+
 **Role:** Tech Lead / Full Stack Developer
 
 **Developer:** Haochen Zhou (SkywingJam)
