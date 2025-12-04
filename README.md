@@ -1,8 +1,11 @@
 # Project Portfolio: Urban Tree Explorer
 
 **Role:** Tech Lead / Full Stack Developer
+
 **Developer:** Haochen Zhou (SkywingJam)
+
 **Tech Stack:** WordPress, PHP, JavaScript, CSS, WP Go Map
+
 **Grade:** High Distinction (83.75/100)
 
 ---
